@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Light.hpp
+Vector.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Vector.hpp
+
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Object.hpp
+Vector.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Vector.hpp
+global.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/global.hpp
+
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Renderer.hpp
+Scene.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Scene.hpp
+
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Scene.hpp
+vector
+-
+memory
+-
+Vector.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Vector.hpp
+Object.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Object.hpp
+Light.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Light.hpp
+
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Sphere.hpp
+Object.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Object.hpp
+Vector.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Vector.hpp
+
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Triangle.hpp
+cstring
+-
+Object.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Object.hpp
+
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Vector.hpp
+cmath
+-
+iostream
+-
+
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/global.hpp
+cmath
+-
+iostream
+-
+random
+-
+
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/main.cpp
+Scene.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Scene.hpp
+Sphere.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Sphere.hpp
+Triangle.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Triangle.hpp
+Light.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Light.hpp
+Renderer.hpp
+/home/fishermanykx/文档/WeChat Files/ykx17873536851/FileStorage/File/2022-01/RayTracing_Assignment/Code/Renderer.hpp
+
